@@ -1,0 +1,5 @@
+C:\Users\MetroX\Desktop\CSharpWebsocketDemo\WebSocket\ClientSocket\bin\Debug\ClientSocket.exe
+C:\Users\MetroX\Desktop\CSharpWebsocketDemo\WebSocket\ClientSocket\bin\Debug\ClientSocket.pdb
+C:\Users\MetroX\Desktop\CSharpWebsocketDemo\WebSocket\ClientSocket\obj\x86\Debug\ClientSocket.csprojResolveAssemblyReference.cache
+C:\Users\MetroX\Desktop\CSharpWebsocketDemo\WebSocket\ClientSocket\obj\x86\Debug\ClientSocket.exe
+C:\Users\MetroX\Desktop\CSharpWebsocketDemo\WebSocket\ClientSocket\obj\x86\Debug\ClientSocket.pdb
